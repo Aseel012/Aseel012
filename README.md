@@ -374,3 +374,80 @@ I believe the fastest way to improve as a developer isn't watching another tutor
 it's building real software, solving real problems, and continuously improving through experience.
 
 ---
+
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shaikh-md-aseel-29091b27b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shaikhmdaseel@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Aseel012">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</p>
+
+---# 💡 Developer Wisdom
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"/>
+
+</p>
+
+---
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_ID"/>
+
+
+# ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+# 🚀 Latest Repositories
+
+<a href="https://github.com/Aseel012">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aseel012&repo=PROJECT1&theme=transparent"/>
+
+</a>
+
+<a href="https://github.com/Aseel012">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aseel012&repo=PROJECT2&theme=transparent"/>
+
+</a>
+
+<div align="center">
+
+## Thanks for stopping by.
+
+If you enjoyed exploring my work,
+
+⭐ consider following my journey.
+
+<br>
+
+Building.
+
+Learning.
+
+Improving.
+
+Every single day.
+
+</div>
