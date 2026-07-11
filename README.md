@@ -62,21 +62,20 @@ I build software people actually use — AI-powered tools, computer vision appli
 ---
 
 
-## Projects
 
-**Pixtract** — AI-powered OCR scanner with on-device text extraction and searchable PDF export.
-`Flutter` `Dart` `ML Kit`
+## Featured Projects
 
-**DitherMe** — In-browser image dithering playground (Floyd–Steinberg, Ordered, Atkinson) with real-time preview.
-`JavaScript` `Canvas API`
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **PeerChat** | Flutter, WebRTC, Firebase | 1:1 peer‑to‑peer chat with real‑time messaging and video/audio calls |
+| **FileDrop** | Flutter, Firebase, Cloud Storage | Serverless file sharing – upload, share via link, and auto‑expiring downloads |
+| **Pixtract** | Flutter, ML Kit | On‑device OCR scanner with searchable PDF export |
+| **DitherMe** | JavaScript, Canvas | Browser‑based image dithering (Floyd‑Steinberg, Ordered, Atkinson) |
+| **ASCIIU** | JavaScript, Canvas API | Live webcam‑to‑ASCII conversion, fully client‑side |
 
-**ASCIIU** — Real-time webcam-to-ASCII converter, fully client-side, zero backend.
-`JavaScript` `Canvas API`
+> 🔗 All repositories are available on [my GitHub](https://github.com/Aseel012).
 
-**Caesar Cipher** — Web app for text and file encryption/decryption with an interactive interface.
-`HTML` `CSS` `JavaScript`
-
-<br>
+---
 
 ## GitHub Stats
 
