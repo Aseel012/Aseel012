@@ -77,18 +77,20 @@ I build software people actually use — AI-powered tools, computer vision appli
 
 ---
 
+---
+
 ## GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aseel012&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseel012&layout=compact&theme=transparent&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aseel012&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseel012&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aseel012&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aseel012&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<br>
+---
 
 <div align="center">
 
