@@ -1,54 +1,31 @@
-<div align="center">
+&lt;div align="center"&gt;
 
 # Shaikh Md Aseel
 
-**AI Full-Stack Developer** — Python · Flutter · FastAPI · Computer Vision
-
-*Building AI-powered products. Shipping over tutorials.*
+AI Full-Stack Developer. Building, breaking, and shipping.
 
 [GitHub](https://github.com/Aseel012) · [LinkedIn](https://linkedin.com/in/shaikh-md-aseel-29091b27b) · [Email](mailto:shaikhmdaseel@gmail.com)
 
-</div>
+&lt;/div&gt;
+
+I build AI-powered products, computer vision applications, and cross-platform apps. Currently deepening my backend engineering and system design skills.
+
+- Building AI-native developer tools and computer vision pipelines with Python and FastAPI
+- Developing cross-platform mobile applications with Flutter, Firebase, and WebRTC
+- Working on on-device OCR and ML Kit integrations for document automation
+- Exploring backend engineering, system design, and scalable API architectures
+- Shipping production-ready software that people actually use
+
+Currently working on backend engineering, system design, and AI-powered automation tools.
+
+Tech Stack
+
+Python · Dart · Java · C/C++ · Go · JavaScript · Flutter · FastAPI · Flask · React · PostgreSQL · SQLite · Firebase · AWS · Azure · Cloudflare · HuggingFace · Git · Docker
 
 ---
 
-## About
+&lt;div align="center"&gt;
 
-I build software people actually use — AI-powered tools, computer vision applications, and cross-platform apps. Currently deepening my backend engineering and system design skills.
+Learn. Build. Ship. Repeat.
 
----
-
-## Tech Stack
-
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | Python, Dart, Java, C/C++, Go, JavaScript |
-| **Frameworks** | Flutter, FastAPI, Flask, React |
-| **Databases** | PostgreSQL, SQLite, Firebase |
-| **Cloud & AI** | AWS, Azure, Cloudflare, HuggingFace |
-| **DevOps** | Git, Docker |
-
----
-
-## What I Do
-
-- **AI & Computer Vision** — OCR pipelines, on-device ML, automation systems
-- **Cross-Platform Apps** — Flutter apps with real-time features (WebRTC, Firebase)
-- **Backend Engineering** — FastAPI/Flask APIs, system design, scalable architecture
-- **Developer Tools** — Browser-based utilities, client-side processing, automation scripts
-
----
-
-## Currently
-
-- Deepening backend engineering and distributed systems knowledge
-- Exploring on-device ML and edge AI deployment
-- Open to collaborations on AI/vision tools and developer utilities
-
----
-
-<div align="center">
-
-**Learn. Build. Ship. Repeat.**
-
-</div>
+&lt;/div&gt;
