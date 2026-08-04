@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+<div align="center">
 
 # Shaikh Md Aseel
 
@@ -6,7 +6,7 @@ AI Full-Stack Developer. Building, breaking, and shipping.
 
 [GitHub](https://github.com/Aseel012) · [LinkedIn](https://linkedin.com/in/shaikh-md-aseel-29091b27b) · [Email](mailto:shaikhmdaseel@gmail.com)
 
-&lt;/div&gt;
+</div>
 
 I build AI-powered products, computer vision applications, and cross-platform apps. Currently deepening my backend engineering and system design skills.
 
@@ -24,8 +24,8 @@ Python · Dart · Java · C/C++ · Go · JavaScript · Flutter · FastAPI · Fla
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 Learn. Build. Ship. Repeat.
 
-&lt;/div&gt;
+</div>
