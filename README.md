@@ -1,64 +1,244 @@
-<div align="center">
+# Hey, I'm Aseel 👋
 
-# Shaikh Md Aseel
+### `Software Developer` · `Builder` · `AI/ML Enthusiast`
 
-AI Full-Stack Developer. Building, breaking, and shipping.
+> I build things that solve real problems — from AI-powered tools to full-stack applications.
 
-[GitHub](https://github.com/Aseel012) · [LinkedIn](https://linkedin.com/in/shaikh-md-aseel-29091b27b) · [Email](mailto:shaikhmdaseel@gmail.com)
-
-</div>
-
-I build AI-powered products, computer vision applications, and cross-platform apps. Currently deepening my backend engineering and system design skills.
-
-- Building AI-native developer tools and computer vision pipelines with Python and FastAPI
-- Developing cross-platform mobile applications with Flutter, Firebase, and WebRTC
-- Working on on-device OCR and ML Kit integrations for document automation
-- Exploring backend engineering, system design, and scalable API architectures
-- Shipping production-ready software that people actually use
-
-Currently working on backend engineering, system design, and AI-powered automation tools.
-
-## Tech Stack
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=007396" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Aseel012-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aseel012)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=0078D4" alt="Azure" />
-  <img src="https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="HuggingFace" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
 ---
 
-<div align="center">
+## `01` — About Me
 
-**Learn. Build. Ship. Repeat.**
+I'm a **B.Tech Information Technology student and software developer** who enjoys turning ideas into working products.
 
-</div>
+I like working across the stack — from designing interfaces and building APIs to deploying applications and experimenting with AI.
+
+```text
+BUILD
+  ↓
+SHIP
+  ↓
+LEARN
+  ↓
+ITERATE
+```
+
+Currently exploring:
+
+**AI/ML · Full Stack Development · Cloud · DevOps · System Design**
+
+---
+
+## `02` — What I Build
+
+### ◉ AI & Automation
+
+Building practical AI tools rather than just experimenting with models.
+
+**RemoveAnything.in**
+
+> AI-powered image background removal platform.
+
+`Python` `Flask` `OpenCV` `Docker` `Nginx`
+
+---
+
+### ◉ Full-Stack Applications
+
+Building complete products with authentication, APIs, databases and modern interfaces.
+
+**Projects**
+
+* Real Estate Calling Bot
+* Recipe API
+* TurfMaster Pro
+* Feelix
+* ShareYou
+* NoTime
+
+`React` `Next.js` `Node.js` `Python` `Flask` `PostgreSQL` `Firebase`
+
+---
+
+## `03` — Tech Stack
+
+### Languages
+
+```text
+C        C++
+Java     Python
+JavaScript
+SQL      Dart
+```
+
+### Development
+
+```text
+Flutter       React
+Next.js       Node.js
+Express       Flask
+Django        Spring Boot
+```
+
+### Data & Infrastructure
+
+```text
+MySQL
+PostgreSQL
+Firebase
+Docker
+Git
+GitHub
+Linux
+Vercel
+```
+
+### Currently Learning
+
+```text
+AI / ML
+DSA
+System Design
+DevOps
+Cloud
+Backend Architecture
+```
+
+---
+
+## `04` — Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ RemoveAnything
+
+AI-powered image background removal.
+
+**Stack**
+
+`Python` `Flask` `OpenCV` `Docker`
+
+</td>
+
+<td width="50%">
+
+### ⏱️ NoTime
+
+A minimal productivity workspace focused on time, tasks and focus.
+
+**Stack**
+
+`Next.js` `TypeScript` `Database`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Real Estate Calling Bot
+
+Automates real-estate calling workflows and connects data with Google Sheets.
+
+**Stack**
+
+`Python` `Flask` `Google Sheets`
+
+</td>
+
+<td width="50%">
+
+### 🍳 Recipe API
+
+Backend API for recipe management and discovery.
+
+**Stack**
+
+`NestJS` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05` — GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aseel012&show_icons=true&hide_border=true&theme=transparent" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aseel012&hide_border=true&theme=transparent" />
+
+</p>
+
+---
+
+## `06` — My Approach
+
+```text
+Don't just learn technology.
+        ↓
+Build something with it.
+        ↓
+Break it.
+        ↓
+Understand why.
+        ↓
+Build it better.
+```
+
+I care about **shipping real projects**, understanding how systems work, and continuously improving the things I build.
+
+---
+
+## `07` — Currently
+
+🔭 Building products and experimenting with AI
+
+🌱 Learning DSA, AI/ML, DevOps & system design
+
+💻 Working with full-stack technologies
+
+🚀 Turning side-projects into production applications
+
+📚 Improving every day
+
+---
+
+## `08` — Let's Connect
+
+If you're building something interesting, working on AI, or just want to talk about technology:
+
+**Let's connect.**
+
+<br>
+
+<p align="center">
+
+### `Aseel012`
+
+**Build something worth remembering.**
+
+</p>
+
+---
+
+<p align="center">
+<sub>© Aseel012 · Built with curiosity and too many late-night ideas.</sub>
+</p>
