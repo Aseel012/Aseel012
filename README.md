@@ -20,7 +20,7 @@ In review
 
 `TypeScript` `Next.js` `Python` `FastAPI` `Node` `Postgres` `Rust` · Anthropic MCP certified
 
-→ open to paid contract, intern or full-time work, remote · shaikhaseel.vercel.app · shaikhmdaseel@gmail.com
+→ open to paid contract, intern or full-time work, remote · shaikhmdaseel@gmail.com
 
 the hook is the radix and wasmcloud merges in the first two lines, so a recruiter sees them before scrolling.
 
