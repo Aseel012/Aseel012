@@ -1,6 +1,27 @@
-<div align="center">
-  <img width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZvZXp4ZWliZ2ppb3IycGg0cWV1dTV2N2o5NGg2OHhzbTE4Z3llbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xwDluanWkKFy9O6HjQ/giphy.gif" />
-  <img width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwNmFhd2dxMzV2emhpOHVtbGRyZWljaDE1ZzFyemt2ZzIwN3ZjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1a9KZGd4jN8yT4Jr2N/giphy.gif" />
-  <img width="180" src="https://media1.tenor.com/m/UD0CmIUASaoAAAAd/gachiakuta-rudo.gif" />
-  <img width="180" src="https://media1.tenor.com/m/Nt0qSD5tgfQAAAAd/gachiakuta-rudo.gif" />
-</div>
+
+### Aseel · I fix things in other people's codebases, then build my own
+
+Radix UI merged my nested ContextMenu touch fix, with tests. wasmCloud merged my Rust patch for wash oci push/pull on private-CA registries.
+
+Right now I'm fixing Inkeep's docs pipeline and restoring Dub's API errors page.
+
+Shipped in the wild
+- kavynUI · component library listed in the shadcn registry → kavynui.com
+- removeanything.in · AI object removal, live
+- MotionFlow AI · real-time motion analysis (Next.js + FastAPI + MediaPipe)
+
+Merged upstream
+`radix-ui/primitives#4199` · `wasmCloud#5609` · `naftiko/ikanos#765` · `VengeanceUI#91 #94` · collaborator on a Java kernel repo
+
+In review
+`inkeep/agents#3593` 7 dead links + 6 broken redirects
+`inkeep/agents#3594` their link checker was silently skipping snippets, Card hrefs and redirects. Now it doesn't
+`dubinc/docs#546` every API error's doc_url was a 404 since April
+
+`TypeScript` `Next.js` `Python` `FastAPI` `Node` `Postgres` `Rust` · Anthropic MCP certified
+
+→ open to paid contract, intern or full-time work, remote · shaikhaseel.vercel.app · shaikhmdaseel@gmail.com
+
+the hook is the radix and wasmcloud merges in the first two lines, so a recruiter sees them before scrolling.
+
+the PR numbers sit in code tags so they read like a dev's log, not a résumé
