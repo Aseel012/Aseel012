@@ -8,8 +8,7 @@ Right now I'm fixing Inkeep's docs pipeline and restoring Dub's API errors page.
 Shipped in the wild
 - kavynUI · component library listed in the shadcn registry → kavynui.com
 - removeanything.in · AI object removal, live
-- MotionFlow AI · real-time motion analysis (Next.js + FastAPI + MediaPipe)
-
+  
 Merged upstream
 `radix-ui/primitives#4199` · `wasmCloud#5609` · `naftiko/ikanos#765` · `VengeanceUI#91 #94` · collaborator on a Java kernel repo
 
